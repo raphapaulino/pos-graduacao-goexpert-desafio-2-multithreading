@@ -1,4 +1,4 @@
-# Labs - Desafio 2 - Multithreading (Pós Graduação GoExpert)
+# Desafio 2 - Multithreading (Pós Graduação GoExpert)
 
 ### DESCRIÇÃO DO DESAFIO
 
@@ -49,3 +49,15 @@ go run main.go
 2. O teste acima irá gerar um resultado semelhante a imagem abaixo:
 
 ![Resposta da API](doc-images/20240601_115957.png "Resposta da API mais rápida")
+
+
+That's all folks! : )
+
+
+## Contacts
+
+[LinkedIn](https://www.linkedin.com/in/raphaelalvespaulino/)
+
+[GitHub](https://github.com/raphapaulino/)
+
+[My Portfolio](https://www.raphaelpaulino.com.br/)
