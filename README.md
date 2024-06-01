@@ -1,6 +1,6 @@
 # Labs - Desafio 2 - Multithreading (Pós Graduação GoExpert)
-# pos-graduacao-goexpert-desafio-2-multithreading
 
+### DESCRIÇÃO DO DESAFIO
 
 **Objetivo:** Neste desafio você terá que usar o que aprendemos com Multithreading e APIs para buscar o resultado mais rápido entre duas APIs distintas.
 
@@ -17,7 +17,7 @@ http://viacep.com.br/ws/" + {cep} + "/json/
 
 - Acatar a API que entregar a resposta mais rápida e descartar a resposta mais lenta.
 
-- O resultado da request deverá ser exibido no command line com os dados do endereço, bem como qual API a enviou.
+- O resultado da request deverá ser exibido na command line com os dados do endereço, bem como qual API a enviou.
 
 - Limitar o tempo de resposta em 1 segundo. Caso contrário, o erro de timeout deve ser exibido.
 
